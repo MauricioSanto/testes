@@ -1,0 +1,66 @@
+html{
+    background-color: rgba(180, 242, 201, 0.729);
+    height: 100%;
+}
+.produto{
+    background-color: rgb(234, 214, 116);
+}
+body{
+    margin: 0%;
+    justify-content: space-between;
+    flex-direction: column;
+    display: flex;
+    height: 100%;
+}   
+h2{
+    text-align: center;
+    color: blue;
+} 
+.item{
+    display: flex;
+    list-style: none;
+    color: blue;
+    padding: 10px 0px;
+    margin: 0px;
+    justify-content: space-around;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.pedidos{
+    border: 2px solid #000 ; 
+    margin: auto;  
+}
+.guirlanda{
+    text-align: center;
+}
+.texto1{
+    text-align: center;
+    color: brown;
+    font-size: 15px;
+    width: auto;
+    display:inline-block; 
+    margin: 30px;
+}
+.texto2{
+    text-align: center;
+    color: brown;
+    font-size: 15px;
+    width: auto;
+    display:inline-block;  
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(234, 214, 116);
+    padding: 10px 0px;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+    
+
+
+
